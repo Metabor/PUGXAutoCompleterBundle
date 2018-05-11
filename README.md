@@ -1,7 +1,7 @@
 PUGXAutocompleterBundle
 =======================
 
-This bundle has a simple, specific purpose: adding an "autocomplete" (also known as "type-ahed")
+This bundle has a simple, specific purpose: adding an "autocomplete" (also known as "type-ahead")
 field.
 The typical use case is when you get a Many-to-One relation and you need to display a
 form with related entity. If related entity has many thousands of items, using the
@@ -12,17 +12,17 @@ classic select is not suitable. Here comes this bundle.
 Documentation
 -------------
 
-[Read the documentation](https://github.com/PUGX/PUGXAutoCompleterBundle/tree/master/Resources/doc/index.md)
+[Read the documentation](https://github.com/PUGX/PUGXAutoCompleterBundle/tree/master/docs/index.md)
 
 Installation
 ------------
 
-All the installation instructions are located in [documentation](https://github.com/PUGX/PUGXAutoCompleterBundle/tree/master/Resources/doc/index.md).
+All the installation instructions are located in [documentation](https://github.com/PUGX/PUGXAutoCompleterBundle/tree/master/docs/index.md).
 
 License
 -------
 
-This bundle is released under the LGPL license. See the [complete license text](https://github.com/PUGX/PUGXAutoCompleterBundle/tree/master/Resources/meta/LICENSE).
+This bundle is released under the LGPL license. See the [complete license text](https://github.com/PUGX/PUGXAutoCompleterBundle/tree/master/LICENSE).
 
 About
 -----
